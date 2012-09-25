@@ -5,10 +5,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.example.groupid</groupId>
-  <artifactId>SampleBukkitPlugin</artifactId>
+  <artifactId>ArchetypeTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>SampleBukkitPlugin</name>
+  <name>Archetype Test</name>
   <description>This is a sample plugin for CraftBukkit</description>
 
   <properties>
@@ -80,4 +79,5 @@
       </plugin>
     </plugins>
   </build>
+  <groupId>edu.unca.thaithco</groupId>
 </project>
